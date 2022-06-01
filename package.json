@@ -1,0 +1,25 @@
+{
+  "name": "redis-message-service",
+  "version": "1.0.0",
+  "description": "A simple message service using websocket and redis pub/sub mechanism",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kafir-coder/redis-message-service.git"
+  },
+  "keywords": [
+    "redis",
+    "pub/sub",
+    "message",
+    "service"
+  ],
+  "author": "Caio Tony <caiotony16@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kafir-coder/redis-message-service/issues"
+  },
+  "homepage": "https://github.com/kafir-coder/redis-message-service#readme"
+}
